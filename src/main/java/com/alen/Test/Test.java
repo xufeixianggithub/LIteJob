@@ -12,7 +12,7 @@ public class Test {
 
 
             }catch (Exception e){
-                System.out.println("捕获到异常了");
+                System.out.println("捕获到异常了啊啊啊啊h  h ");
                 e.printStackTrace();
             }
         }
