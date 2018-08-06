@@ -11,6 +11,7 @@ public class starter {
 
 	public static void main(String[] args) {
 		  SpringApplication springApplication = new SpringApplication(starter.class);
+		  //启动
 	        springApplication.run(args);
 	}
 
